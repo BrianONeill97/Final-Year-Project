@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Corner
+  - Road
+  - TJunction
+  - Intersection
+  - Ramp
+  - Track
+  - Lamp
+  - Plain
+  - Tree
+  - House
+  - Wave
+  - Floor
+  - Wall
+  - Door
+  - Rock
+  - Fence
+  - petal
+  - Leaf
+  - Garden
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - BuildingLayer
+  - BuildingPieces
+  - Enviroment
+  - Player
+  - Road
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
